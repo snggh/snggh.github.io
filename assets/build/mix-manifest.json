@@ -1,0 +1,10 @@
+{
+    "/js/vendor/plugins.js": "/js/vendor/plugins.js",
+    "/js/vendor/jquery-3.2.1.min.js": "/js/vendor/jquery-3.2.1.min.js",
+    "/js/vendor/pace.min.js": "/js/vendor/pace.min.js",
+    "/js/vendor/modernizr.js": "/js/vendor/modernizr.js",
+    "/js/vendor/main.js": "/js/vendor/main.js",
+    "/css/base.css": "/css/base.css",
+    "/css/vendor.css": "/css/vendor.css",
+    "/css/main.css": "/css/main.css"
+}
